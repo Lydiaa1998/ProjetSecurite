@@ -4,4 +4,7 @@
 - Si l'utilisateur essaye de s'inscrire avec une adresse mail dejà utilisée, il aura un message d'erreur.
 - Lors de l'inscription, si les deux mot de passe tapés par l'utilisateurnee sont pas identiques, il aura un message d'erreur.
 - Si l'identifiant de l'utilisateur n'est pas du type xxxx@xxx, il aura un message d'erreur.
+- Vous pouvez essayer de vous connecter avec les identidiants suivants: 
+Identifiant: aitabdelkader.lydia@gmail.com
+Mot de passe: ProjetSecurite2021
 
